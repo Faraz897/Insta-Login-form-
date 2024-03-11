@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(105, 107, 109);
+}
+
+.head{
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+}
+.container{
+    padding-bottom: 4%;
+    width: 350px;
+    height: 400px;
+    margin: 8% auto;
+    background: #fff;
+    border-radius: 10px;
+    position: relative;
+    margin: auto;
+}
+ 
+
+
+.btn{
+    width: 400px;
+    height: 350;
+    background-color: rgb(11, 83, 154);
+    color: #fff;
+    max-width: 222px;
+    border-radius: 40px;
+    margin-top: 5px;
+}
+input{
+    font-size: 14px;
+    padding: 5px;
+}
+
+.signup{
+    background-color: #fff;
+    border-radius: 10px;
+    width:350px;
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 450px;
+    padding-top: 5px;
+    text-align: center;
+    height: 19px;
+ 
+}
+.jani{
+    margin-top: 1px;
+    text-align: center;
+}
